@@ -6,7 +6,7 @@
 
 ### Используемые технологии
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=php)
-![YII2](https://img.shields.io/badge/-Yii2-black?style=flat-square&logo=yii2&logoColor=yii2)
+![YII2](https://img.shields.io/badge/-Yii2-black?style=flat-square&logo=yii&logoColor=yii)
 
 
 ### Предварительные действия
