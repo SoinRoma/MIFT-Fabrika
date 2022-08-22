@@ -30,7 +30,3 @@ composer install
 + Заходим в настройки и переходим в раздел Settings\Languages&Frameworks.
 + Дальше в разделе PHP выбираем версию(не ниже 7.1).
 + И указываем путь для интерпретатора (\OpenServer\modules\php\PHP_7.1\php.exe).
-
-### Запуск проекта
-
-1 - Запустить проект в IDE(PhpStorm).
